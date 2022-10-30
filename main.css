@@ -8,8 +8,8 @@ header,
 section h2,
 section h3,
 form button {
-    font-family:Georgia, 'Times New Roman', Times, serif
-    font-weight: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:  normal;
 }
 
 body, input, textarea {
@@ -84,6 +84,7 @@ section p {
     height: 350px;
     margin-right: 32px;
     border-radius: 10px;
+    border-style: outset;
 }
 
 .social-links img{
